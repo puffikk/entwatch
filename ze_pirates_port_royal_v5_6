@@ -2,24 +2,24 @@
 
 "entities"
 {
-        "0"
-    {
-        "name"              "Medalka (Ultima)" 
-        "shortname"         "Medalka"
-        "color"             "{orange}" 
-        "buttonclass"       "func_button" 
-        "filtername"        "medailon_zbran"
-        "blockpickup"       "false"
-        "allowtransfer"     "true"
-        "forcedrop"         "true"
-        "chat"              "true" 
-        "hud"               "true" 
-        "hammerid"          "2058306"
-        "mode"              "3"
-        "maxuses"           "1"
-        "pt_spawner"        ""
-    }
-    	"1"
+                "0"
+          {
+                "name"              "Medalka (Ultima)" 
+                "shortname"         "Medalka"
+                "color"             "{orange}" 
+                "buttonclass"       "func_button" 
+                "filtername"        "medailon_zbran"
+                "blockpickup"       "false"
+                "allowtransfer"     "true"
+                "forcedrop"         "true"
+                "chat"              "true" 
+                "hud"               "true" 
+                "hammerid"          "2058306"
+                "mode"              "3"
+                "maxuses"           "1"
+                "pt_spawner"        ""
+        }
+    	        "1"
 	{
 		"name"              "Zabor (Earth)"
 		"shortname"         "Zabor"
