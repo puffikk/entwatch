@@ -87,7 +87,7 @@
 		"cooldown"          "50"
 		"pt_spawner"        ""
 	}
-        "6"
+                "6"
 	{
 		"name"              "Medick ( ͡° ͜ʖ ͡°) (Heal)"
 		"shortname"         "Medick"
@@ -104,7 +104,7 @@
 		"cooldown"          "60"
 		"pt_spawner"        ""
 	}
-	    "7"
+	        "7"
 	{
 		"name"              "Last Medalka (Trigger)"
 		"shortname"         "Last Medalka"
@@ -120,7 +120,7 @@
 		"mode"              "0"
 		"pt_spawner"        ""
 	}
-	    "8"
+	        "8"
 	{
 		"name"              "Barboss (ZM miniboss)"
 		"shortname"         "Barboss"
