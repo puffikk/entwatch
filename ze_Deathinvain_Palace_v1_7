@@ -13,8 +13,8 @@
 		"chat"              "true"
 		"hud"               "true"
 		"hammerid"          "352687"
-		"mode" 				"2"
-		"cooldown" 			"65"
+		"mode" 		    "2"
+		"cooldown" 	    "65"
 		"pt_spawner"        ""
 	}
 	"1"
@@ -30,8 +30,8 @@
 		"chat"              "true"
 		"hud"               "true"
 		"hammerid"          "345612"
-		"mode" 				"2"
-		"cooldown" 			"60"
+		"mode" 		    "2"
+		"cooldown" 	    "60"
 		"pt_spawner"        ""
 	}
 	"2"
@@ -47,8 +47,8 @@
 		"chat"              "true"
 		"hud"               "true"
 		"hammerid"          "338608"
-		"mode" 				"2"
-		"cooldown" 			"65"
+		"mode" 		    "2"
+		"cooldown" 	    "65"
 		"pt_spawner"        ""
 	}
 	"3"
@@ -64,8 +64,8 @@
 		"chat"              "true"
 		"hud"               "true"
 		"hammerid"          "332729"
-		"mode" 				"2"
-		"cooldown" 			"60"
+		"mode" 		    "2"
+		"cooldown" 	    "60"
 		"pt_spawner"        ""
 	}
 	"4"
@@ -81,8 +81,8 @@
 		"chat"              "true"
 		"hud"               "true"
 		"hammerid"          "315534"
-		"mode" 				"2"
-		"cooldown" 			"65"
+		"mode" 		    "2"
+		"cooldown" 	    "65"
 		"pt_spawner"        ""
 	}
 	"5"
@@ -98,8 +98,8 @@
 		"chat"              "true"
 		"hud"               "true"
 		"hammerid"          "296360"
-		"mode" 				"2"
-		"cooldown" 			"60"
+		"mode" 		    "2"
+		"cooldown" 	    "60"
 		"pt_spawner"        ""
 	}
 	"6"
@@ -115,8 +115,8 @@
 		"chat"              "true"
 		"hud"               "true"
 		"hammerid"          "289536"
-		"mode" 				"2"
-		"cooldown" 			"65"
+		"mode" 		    "2"
+		"cooldown" 	    "65"
 		"pt_spawner"        ""
 	}
 	"7"
@@ -132,7 +132,7 @@
 		"chat"              "true"
 		"hud"               "true"
 		"hammerid"          "360263"
-		"mode" 				"0"
+		"mode" 		    "0"
 		"pt_spawner"        ""
 	}
 	"8"
@@ -148,7 +148,7 @@
 		"chat"              "true"
 		"hud"               "true"
 		"hammerid"          "144271"
-		"mode" 				"0"
+		"mode" 		    "0"
 		"pt_spawner"        ""
 	}
 	"9"
@@ -164,10 +164,10 @@
 		"chat"              "true"
 		"hud"               "false"
 		"hammerid"          "120178"
-		"mode" 				"0"
+		"mode" 		    "0"
 		"pt_spawner"        ""
 	}
-    "10"
+        "10"
 	{
 		"name"              "ZM Shield"
 		"shortname"         "ZM Shield"
@@ -184,7 +184,7 @@
 		"cooldown"          "45"
 		"pt_spawner"        ""
 	}
-    "11"
+        "11"
 	{
 		"name"              "ZM Ice"
 		"shortname"         "ZM Ice"
@@ -201,7 +201,7 @@
 		"cooldown"          "45"
 		"pt_spawner"        ""
 	}
-    "12"
+        "12"
 	{
 		"name"              "ZM Gravity"
 		"shortname"         "ZM Gravity"
@@ -218,7 +218,7 @@
 		"cooldown"          "65"
 		"pt_spawner"        ""
 	}
-    "13"
+        "13"
 	{
 		"name"              "ZM Fire"
 		"shortname"         "ZM Fire"
@@ -235,7 +235,7 @@
 		"cooldown"          "45"
 		"pt_spawner"        ""
 	}
-    "14"
+        "14"
 	{
 		"name"              "ZM Warp (Killer)"
 		"shortname"         "ZM Warp"
@@ -252,7 +252,7 @@
 		"cooldown"          "65"
 		"pt_spawner"        ""
 	}
-    "15"
+        "15"
 	{
 		"name"              "ZM Heal"
 		"shortname"         "ZM Heal"
